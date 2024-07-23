@@ -1,7 +1,7 @@
-<div align="center">Hi👋, I'm Faizan  </div>
+<div align="center"><strong>Hi👋, I'm Faizan</strong></div>
 
 <div align="center">
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=7000&color=33FF33&center=true&vCenter=true&width=335&lines=Golang+Developer,;Sr+Software+Engineer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..⭐" alt="Typing SVG"/></h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=#ADD8E6&center=true&vCenter=true&width=535&lines=Golang+Developer,;Sr+Software+Engineer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..⭐" alt="Typing SVG"/></h1>
 </div>
 
 ## About me
@@ -12,7 +12,8 @@
   <li>🌱 Always learning new things</li>
 </ul>
 
-<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+<marquee behavior="scroll" direction="left" scrollamount="10">
+</marquee>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizanAhmaddev&show_icons=true)
 
