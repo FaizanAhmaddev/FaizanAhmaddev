@@ -13,6 +13,10 @@ I'm a Software Engineer specializing in Golang.
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
+## Contribution Graph
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/FaizanAhmaddev/FaizanAhmaddev/output/github-contribution-grid-snake.svg)
+
+
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizanAhmaddev&show_icons=true)
