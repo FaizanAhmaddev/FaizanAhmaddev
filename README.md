@@ -1,7 +1,18 @@
-<div align="center"><strong>Hi👋, I'm Faizan</strong></div>
+<style>
+.shadow-highlight {
+    background-color: #33FF33;
+    color: black;
+    padding: 2px 4px;
+    border-radius: 4px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+</style>
+
+<div align="center"><span class="shadow-highlight">Hi👋, I'm Faizan</span></div>
 
 <div align="center">
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=#ADD8E6&center=true&vCenter=true&width=535&lines=Golang+Developer,;Sr+Software+Engineer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..⭐" alt="Typing SVG"/></h1>
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=#ADD8E6&center=true&vCenter=true&width=435&lines=Golang+Developer,;Sr+Software+Engineer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..⭐" alt="Typing SVG"/></h1>
 </div>
 
 ## About me
