@@ -14,16 +14,14 @@
   <li>🌱 Always learning new things</li>
 </ul>
 
-<marquee behavior="scroll" direction="left" scrollamount="10">
-</marquee>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizanAhmaddev&show_icons=true)
 
 ![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/FaizanAhmaddev/FaizanAhmaddev/output/github-contribution-grid-snake.svg)
 
 ## Skills
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizanAhmaddev&show_icons=true)
