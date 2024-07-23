@@ -1,7 +1,9 @@
 <div align="center">Hi👋, I'm Faizan</div>
 
 <div align="center">
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=#ADD8E6&center=true&vCenter=true&width=435&lines=Golang+Developer,;Sr+Software+Engineer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..⭐" alt="Typing SVG"/></h1>
+<h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=33FF33&center=true&vCenter=true&width=500&lines=Golang+Developer;Senior+Software+Engineer;Active+Learner;Love+to+Learn+New+Things" alt="Typing SVG"/>
+</h2>
 </div>
 
 ## About me
