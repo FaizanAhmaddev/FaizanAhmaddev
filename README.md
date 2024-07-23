@@ -22,6 +22,8 @@
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=go,mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,cpp,gcp,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,bash,angular,nodejs)](https://skillicons.dev)
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizanAhmaddev&show_icons=true)
